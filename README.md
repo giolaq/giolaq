@@ -1,4 +1,9 @@
-<h1 align="center">Ciao 👋, I'm Giovanni</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
+</div>
+
+<h1 align="center">Ciao  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Giovanni</h1>
 <h3 align="center">Developer Advocate @ Amazon</h3>
 
 
@@ -7,10 +12,6 @@
 - 📫 How to reach me **www.laquidara.dev**
 
 - ⚡ Fun fact **I like to cook 🍝 dance 💃🕺 and run 🏃‍♂️**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
